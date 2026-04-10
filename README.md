@@ -12,3 +12,7 @@ For tranforming the rating data into percentile values, we used the code in this
 ## Recommendation tool
 
 For running experiments with recommendation models, we used [Librec-Auto](https://github.com/that-recsys-lab/librec-auto).
+
+## Additional results
+
+In this part, we present our additional results not reported in the paper.
