@@ -13,7 +13,7 @@ For tranforming the rating data into percentile values, we used the code in this
 
 For running experiments with recommendation models, we used [Librec-Auto](https://github.com/that-recsys-lab/librec-auto).
 
-## Additional results
+<!-- ## Additional results
 
 In this part, we present our additional results not reported in the paper.
 
@@ -39,4 +39,4 @@ The following plots show the performance of six recommendation models trained wi
 
 <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_biasedmf.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_listrankmf.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_svdpp.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_wrmf.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_userknn.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_itemknn.jpg" width="300"/>
 
-As expected, the proposed percentile transformation does not show superior performaance on Yahoo!R3 dataset, particularly for UserKNN. 
+As expected, the proposed percentile transformation does not show superior performance on Yahoo!R3 dataset, particularly for UserKNN.  -->
