@@ -35,7 +35,7 @@ First, the left plot, the relationship between average rating and popularity of 
 
 The following plots show the performance of six recommendation models trained with original rating values and percentile values. The performance are evaluated with respect to various item-side and user-side metrics as well as accuracy metrics.
 
-<img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/per_legend.jpg" width="300"/>
+<img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/per_legend.jpg" width="200"/>
 
 <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_biasedmf.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_listrankmf.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_svdpp.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_wrmf.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_userknn.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_per_itemknn.jpg" width="300"/>
 
