@@ -21,6 +21,10 @@ In this part, we present our additional results not reported in the paper.
 
 We additionally performed experiments on Yahoo!R3 dataset which contains an unbiased test set. In this dataset, the training data contains 15,400 users who provided 311,704 ratings on 1,000 items (density of 0.02).
 
-The following plots show the popularity (left) and ratings (right) distribution of Yahoo!R3 dataset.
+Similar to figures 1 and 2 in the paper, the following plots show the popularity (left) and ratings (right) distribution of Yahoo!R3 dataset.
 
 <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/longtail_dist.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/rating_dist.jpg" width="300"/>
+
+To understand the degree of multifactorial bias on this dataset, similar to figures 3 and 6 in the paper, the following plots present the relationship between items' popularity and average rating on the original rating values (left) and the transformed percentile values (right).
+
+<img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_pop_rating.jpg" width="300"/> <img src="https://github.com/masoudmansoury/Unfairness_MultifactorialBias/blob/main/results/yahooR3/yahoounbiased_pop_percentile.jpg" width="300"/>
